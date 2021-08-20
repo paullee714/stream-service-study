@@ -23,6 +23,7 @@
 # Generated files
 .idea/**/contentModel.xml
 
+.idea
 # Sensitive or high-churn files
 .idea/**/dataSources/
 .idea/**/dataSources.ids
@@ -173,3 +174,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+kafka-simple-java/my-kafka/.idea/codeStyles/codeStyleConfig.xml
+kafka-simple-java/my-kafka/.idea/codeStyles/Project.xml
+kafka-simple-java/my-kafka/.idea/compiler.xml
+kafka-simple-java/my-kafka/.idea/jarRepositories.xml
+kafka-simple-java/my-kafka/.idea/misc.xml
+kafka-simple-java/my-kafka/.idea/runConfigurations.xml
+kafka-simple-java/my-kafka/.idea/vcs.xml
