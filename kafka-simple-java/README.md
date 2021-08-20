@@ -1,3 +1,7 @@
+5587 4901 0247 7224 11/27 697
+
+
+
 # Kafka로 메시지/ 이벤트 처리하기
 
 ![Image](https://res.craft.do/user/full/e7bc7144-9bd1-660d-9874-b30e85492b64/doc/F1EE68BA-35C8-4A19-952B-60554F5AD7DA/2E5FC9B2-AB60-470A-926A-AB64229C7CD3_2/Image)
